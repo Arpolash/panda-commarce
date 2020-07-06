@@ -39,3 +39,22 @@
 .cat3{
     background-color: blue;
 }
+
+.card-footer{
+    background-color: white;
+    border: none;
+   
+}
+.card{
+    border: none;
+    box-shadow: 7px 7px 10px lightgray;
+}
+.img img{
+    width: 280px;
+}
+.watch img{
+    width: 240px;
+}
+#subscribe{
+    height: 300px;
+}
